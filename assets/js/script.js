@@ -51,7 +51,7 @@ function downloadCV() {
   // Create a link element
   var link = document.createElement("a");
   // Set the href attribute to the location of your CV file
-  link.href = "https://drive.google.com/file/d/1mVRAZelWCa3TXBeuJkak7SDfuv6MOA07/view?usp=sharing";
+  link.href = "https://drive.google.com/file/d/1Q3Eiw47Soa18xT9lRyRLG--QvASySiZq/view?usp=sharing";
   // Set the download attribute to specify the filename
   link.download = "Resume.pdf";
   // Append the link to the document body
